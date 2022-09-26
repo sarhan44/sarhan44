@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sarhan44/sarhan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+###Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning React, DSA, Node.js, SQL, AWS
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sarhank44@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: there is no fun fact 😄
--->
