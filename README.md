@@ -1,4 +1,3 @@
-###Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning React, DSA, Node.js, SQL, AWS
